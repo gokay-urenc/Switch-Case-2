@@ -1,0 +1,7 @@
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Switch_Case_2\Switch_Case_2\bin\Debug\Switch_Case_2.exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Switch_Case_2\Switch_Case_2\bin\Debug\Switch_Case_2.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Switch_Case_2\Switch_Case_2\bin\Debug\Switch_Case_2.pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Switch_Case_2\Switch_Case_2\obj\Debug\Switch_Case_2.csprojResolveAssemblyReference.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Switch_Case_2\Switch_Case_2\obj\Debug\Switch_Case_2.csproj.CoreCompileInputs.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Switch_Case_2\Switch_Case_2\obj\Debug\Switch_Case_2.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Switch_Case_2\Switch_Case_2\obj\Debug\Switch_Case_2.pdb
